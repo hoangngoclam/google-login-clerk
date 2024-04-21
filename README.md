@@ -19,3 +19,7 @@ npm start
 ```
 
 Access: http://localhost:3000/ 
+
+<img width="382" alt="image" src="https://github.com/hoangngoclam/google-login-clerk/assets/26401817/996ac07f-78ce-45fb-a36c-f32a5217b339">
+
+<img width="560" alt="image" src="https://github.com/hoangngoclam/google-login-clerk/assets/26401817/0fe1a3f3-912f-43a9-aa43-3f8f6b966364">
